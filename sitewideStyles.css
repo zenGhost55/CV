@@ -1,7 +1,4 @@
-/* CSS for sitewide styles in personal website for 2020 from bootcamp course. */
-
-
-
+/* CSS for sitewide styles in personal website for 2020. */
 
 
 
@@ -17,13 +14,5 @@ img.profilepic {
 
 }
 
-.skillsTable {
-    border-collapse: collapse;
 
-}
-
-.skillsTable th, td {
-    padding: .6em;
-
-}
 
